@@ -1,24 +1,3 @@
-# README
+This app should help translate your mom's recipes from using mom measuring units (bunch, pinch, bit...etc) to regular day to day measuring units (tsp, tbsp, cup...etc).
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+All you need to do is insert your recipe with ingredients and measurments and it will be converted for you.
